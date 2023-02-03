@@ -16,12 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "README.md",title: home}
   - {file: "index.html"}
-  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:jyotirmay.khavasi@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/theory-in-progress/"}
+  - {title: linkedin, url: "https://www.linkedin.com/in/jyotirmay-khavasi/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
