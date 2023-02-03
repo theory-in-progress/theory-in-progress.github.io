@@ -16,14 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md",title: home}
-  - {file: "index.md", title: about}
+  - {file: "home.md",title: Home}
+  - {file: "about.md", title: About}
   - {file: "Jyotirmay_Khavasi.pdf", title: Resume, url: "https://theory-in-progress.github.io/Jyotirmay_Khavasi.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jyotirmay.khavasi@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/theory-in-progress/"}
-  - {title: linkedin, url: "https://www.linkedin.com/in/jyotirmay-khavasi/"}
+  - {title: Linkedin, url: "https://www.linkedin.com/in/jyotirmay-khavasi/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
