@@ -8,7 +8,9 @@ Hello!
 
 ## Student
 <!-- I am a final year student at Thapar Institute of Engineering and Technology with a major in Computer Engineering and a minor in cyber security. I am also a research intern at IIT Delhi, working with Dr VVK Srinivas. I am also working as an open-source contributor at PyMC. -->
-I am a Third Year Student at Vishwakarma Institute of Information Technology pursuing my B.Tech in Artificial Intelligence and Data Science. I am also pursuing my Honors in Data Analytics for Economics and Finance. 
+I'm currently a Data Science Intern at Wolters Kluwer and previously I was a Google Summer of Code Contributor at PyTorch-Ignite where I worked on the Code-Generator project.
+
+I am a Final Year Student at Vishwakarma Institute of Information Technology, Pune, India pursuing my B.Tech in Artificial Intelligence and Data Science. I am also pursuing my Honors in Data Analytics for Economics and Finance.
 
 ## Other Interests
 <!-- I was lucky enough to travel a lot of places in India (mostly) and got to click a lot of random things around me. A collection of them is present at my vsco -->
