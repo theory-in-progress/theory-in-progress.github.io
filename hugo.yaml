@@ -1,0 +1,115 @@
+baseURL: https://example.org/
+# baseURL: https://theory-in-progress.github.io/
+languageCode: en-us
+title: Jyotirmay Khavasi
+theme: ["PaperMod"]
+mainsections: ["posts", "papermod"]
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 10
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        # - name: WiKi
+        #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+        - name: Blog
+          url: blog/
+          weight: 10
+        - name: Projects
+          url: projects/
+          weight: 10
+        - name: Resume
+          url: https://theory-in-progress.github.io/Jyotirmay_Khavasi.pdf
+          weight: 10
+
+params:
+  profileMode:
+    enabled: true
+    title: "Jyotirmay Khavasi" # optional default will be site title
+    subtitle: "Welcome to my profile!"
+    imageUrl: "./images/IMG_1335.png" # optional
+    # image: "./static/20231103_223927.jpg" # optional
+    
+    # image: 
+    #   filename: 20231103_223927.jpg # optional
+    
+    # images: ["jk_blog_v1/assets/20231103_223927.jpg"]
+    cover:
+      linkFullImages: true
+    imageTitle: "That's Me!" # optional
+    imageWidth: 240 # custom size
+    imageHeight: 265 # custom size
+    buttons:
+      - name: Posts
+        url: "/posts"
+      # - name: Archive
+      #   url: "/archive"
+      - name: Tags
+        url: "/tags"
+      - name: Blog
+        url: "/blog"
+      - name: Projects
+        url: "/projects"
+      - name: Resume
+        url: https://theory-in-progress.github.io/Jyotirmay_Khavasi.pdf
+        # url: /images/Jyotirmay_Khavasi_v2.pdf
+  # defaultTheme: light
+  defaultTheme: dark
+  # defaultTheme: auto # to switch between dark or light according to browser theme
+  ShowShareButtons: true
+  ShowAllPagesInArchive: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+  ShowReadingTime: true
+
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/jyotirmay-khavasi/"
+    - name: "GitHub"
+      url: "https://github.com/theory-in-progress"
+    # - name: "Stackoverflow"
+    #   url: "https://stackoverflow.com/users/17397774/scarecrow"
+  
+  homeInfoParams:
+    Title: "This is Jyotirmay Khavasi's Website"
+    Content: >
+      👋 Welcome to My website!
+
+      - **Hi there!**
+
+  # buttons:
+  #   - name: Archive
+  #     url: "/archive"
+  #   - name: Tags
+  #     url: "https://github.com/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
