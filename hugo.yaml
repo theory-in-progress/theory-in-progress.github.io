@@ -68,8 +68,8 @@ params:
       - name: Projects
         url: "/projects"
       - name: Resume
-        url: https://theory-in-progress.github.io/Jyotirmay_Khavasi.pdf
-        # url: /images/Jyotirmay_Khavasi_v2.pdf
+        url: "./docs/Jyotirmay_Khavasi_v2.pdf"
+
   # defaultTheme: light
   defaultTheme: dark
   # defaultTheme: auto # to switch between dark or light according to browser theme
