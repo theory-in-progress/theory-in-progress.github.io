@@ -18,15 +18,36 @@
     <item>
       <title>First</title>
       <link>http://localhost:1313/categories/first/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/first/</guid>
       <description></description>
     </item>
     <item>
       <title>Hello World!</title>
       <link>http://localhost:1313/categories/hello-world/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proficiency</title>
+      <link>http://localhost:1313/categories/proficiency/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/proficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/categories/skills/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/tech/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
     <item>

@@ -6,14 +6,21 @@
     <description>Recent content in My-Posts on Jyotirmay Khavasi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/series/my-posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>The first post I created with Hugo</description>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/about_me/my-first-post/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about_me/my-first-post/</guid>
+      <description>Welcome to my About Me page</description>
+    </item>
+    <item>
+      <title>About my Technical Skills</title>
+      <link>http://localhost:1313/posts/my_technical_skills/about-my-technical-skills/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my_technical_skills/about-my-technical-skills/</guid>
+      <description>About my Technical proficiency</description>
     </item>
   </channel>
 </rss>

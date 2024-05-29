@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content and Shortcodes</title>
-      <link>http://localhost:1313/posts/rich-content/</link>
+      <link>http://localhost:1313/posts/md_syntax_examples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <guid>http://localhost:1313/posts/md_syntax_examples/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
     </item>
   </channel>
