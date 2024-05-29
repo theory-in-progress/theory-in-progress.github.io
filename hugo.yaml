@@ -36,7 +36,7 @@ languages:
           url: projects/
           weight: 10
         - name: Resume
-          url: https://github.com/theory-in-progress/theory-in-progress.github.io/blob/41ddced52abcc5be1741a2d9495f6fc2bad4c899/Jyotirmay_Khavasi_v2.pdf
+          url: "./docs/Jyotirmay_Khavasi_v2.pdf"
           weight: 10
 
 params:
